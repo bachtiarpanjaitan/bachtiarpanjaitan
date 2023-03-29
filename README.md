@@ -1,4 +1,4 @@
-![Bachtiar Panjaitan](https://api.bataxdev.com/bachtiarpanjaitan.jpg)
+
 
 - 👋 Hi, I’m @bachtiarpanjaitan ak BEPE
 - 👀 I’m interested in Javascript,Python,PHP
