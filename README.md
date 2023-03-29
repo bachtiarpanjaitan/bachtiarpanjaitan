@@ -1,6 +1,8 @@
+![Bachtiar Panjaitan](https://api.bataxdev.com/bachtiarpanjaitan.jpg)
+
 - 👋 Hi, I’m @bachtiarpanjaitan ak BEPE
 - 👀 I’m interested in Javascript,Python,PHP
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Golang
 
 <!---
 bachtiarpanjaitan/bachtiarpanjaitan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
