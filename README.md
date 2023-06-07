@@ -2,7 +2,7 @@
 ![Bachtiar Panjaitan](https://api.bataxdev.com/bachtiarpanjaitan-min.jpg)
 ##
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bachtiarpanjaitan&theme=vue&date_format=j%20M%5B%20Y%5D&card_width=300)](https://git.io/streak-stats)
-![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true)
+![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=vue)
 ##
 #### My work in Packagist
 | Package(s)         | Detail     |
