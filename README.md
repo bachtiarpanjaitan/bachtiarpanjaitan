@@ -1,11 +1,11 @@
 ![Bachtiar Panjaitan View's](https://komarev.com/ghpvc/?username=bachtiarpanjaitan)
 ![Bachtiar Panjaitan](https://api.bataxdev.com/bachtiarpanjaitan-min.jpg)
 ##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bachtiarpanjaitan&theme=vue&date_format=j%20M%5B%20Y%5D&card_width=300)](https://git.io/streak-stats)
-![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=vue)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bachtiarpanjaitan&theme=vue&date_format=j%20M%5B%20Y%5D&card_width=300)](#)
+![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=vue&card_width=300)
 ##
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=btx&theme=vue)](https://github.com/bachtiarpanjaitan/btx)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=lumen&theme=vue)](https://github.com/bachtiarpanjaitan/lumen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=lumen&theme=vue&card_width=300)](https://github.com/bachtiarpanjaitan/lumen)
 ##
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarpanjaitan&layout=compact&theme=vue)](https://github.com/bachtiarpanjaitan/github-readme-stats)
 ##
