@@ -4,6 +4,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bachtiarpanjaitan&theme=vue&date_format=j%20M%5B%20Y%5D&card_width=300)](https://git.io/streak-stats)
 ![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=vue)
 ##
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=btx&theme=vue)](https://github.com/bachtiarpanjaitan/btx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=lumen&theme=vue)](https://github.com/bachtiarpanjaitan/lumen)
+##
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarpanjaitan&layout=donut&theme=vue)](https://github.com/bachtiarpanjaitan/github-readme-stats)
+[![Bachtiar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bachtiarpanjaitan&theme=vue)](https://github.com/bachtiarpanjaitan/github-readme-stats)
+##
 #### My work in Packagist
 | Package(s)         | Detail     |
 |--------------|-----------|
