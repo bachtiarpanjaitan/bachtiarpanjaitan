@@ -9,7 +9,6 @@
 ##
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarpanjaitan&layout=compact&theme=vue)](https://github.com/bachtiarpanjaitan/github-readme-stats)
 ##
-#### My work in Packagist
 | Package(s)         | Detail     |
 |--------------|-----------|
 | btx/btx | <a href="https://packagist.org/packages/btx/btx?"><img src="https://img.shields.io/packagist/dt/btx/btx?style=flat-square" alt="Total Downloads"></a> <a href="https://packagist.org/packages/btx/btx"><img src="https://img.shields.io/packagist/v/btx/btx?style=flat-square" alt="Latest Stable Version"></a> <a href="https://packagist.org/packages/btx/btx"><img src="https://img.shields.io/packagist/l/btx/btx?style=flat-square" alt="License"></a> <a href="https://packagist.org/packages/btx/btx"><img src="https://img.shields.io/librariesio/github/bachtiarpanjaitan/btx?style=flat-square" alt="Dependencies"></a> <a href="https://github.com/bachtiarpanjaitan/btx"><img src="https://img.shields.io/github/last-commit/bachtiarpanjaitan/btx/main?style=flat-square" alt="Last Commit"></a>|
