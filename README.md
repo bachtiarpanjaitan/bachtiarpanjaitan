@@ -1,5 +1,5 @@
 ![Bachtiar Panjaitan View's](https://komarev.com/ghpvc/?username=bachtiarpanjaitan)
-![Bachtiar Panjaitan](https://api.bataxdev.com/bachtiarpanjaitan-min.jpg)
+![Bachtiar Panjaitan](https://bataxdev.com/assets/images/bachtiarpanjaitan-cover.jpg)
 ##
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bachtiarpanjaitan&theme=vue&date_format=j%20M%5B%20Y%5D&card_width=300)](#)
 ![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=vue&card_width=300)
