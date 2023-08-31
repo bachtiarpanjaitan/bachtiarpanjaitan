@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 ![Bachtiar Panjaitan View's](https://komarev.com/ghpvc/?username=bachtiarpanjaitan)
 ![Bachtiar Panjaitan](https://bataxdev.com/assets/images/bachtiarpanjaitan-cover.jpg)
