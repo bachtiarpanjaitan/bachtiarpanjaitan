@@ -12,12 +12,12 @@
  </p>
 
 ## Activities
-![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=vue&card_width=300)
+![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=buefy&card_width=500&show_owner=true&locale=id&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
 ## Favorite Repo's
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=ihandcashier-cs&theme=vue&card_width=300)](https://github.com/bachtiarpanjaitan/ihandcashier-cs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=btx&theme=vue)](https://github.com/bachtiarpanjaitan/btx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=ihandcashier-cs&theme=buefy&card_width=300&show_owner=true)](https://github.com/bachtiarpanjaitan/ihandcashier-cs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=btx&theme=buefy&show_owner=true)](https://github.com/bachtiarpanjaitan/btx)
 ## Top Languages
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarpanjaitan&layout=compact&theme=vue)](https://github.com/bachtiarpanjaitan/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarpanjaitan&layout=compact&theme=buefy&hide=scss,html&card_width=400)](https://github.com/bachtiarpanjaitan/github-readme-stats)
 ## Published Package's
 |Package Manager| Package(s)         | Detail     |
 |--------------|-----------|------------------|
