@@ -23,7 +23,7 @@
 
 > Top Languages
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarpanjaitan&layout=compact&theme=buefy&hide=scss,html&card_width=400)](https://github.com/bachtiarpanjaitan/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarpanjaitan&layout=compact&theme=buefy&hide=scss,html,css&card_width=400)](https://github.com/bachtiarpanjaitan/github-readme-stats)
 
 > Published Package's
 
