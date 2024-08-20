@@ -17,7 +17,7 @@
 
 > Favorite Repo's
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=ihandcashier-cs&theme=buefy&card_width=300&show_owner=true)](https://github.com/bachtiarpanjaitan/ihandcashier-cs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=IhandCashier&theme=buefy&card_width=300&show_owner=true)](https://github.com/bachtiarpanjaitan/IhandCashier)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=btx&theme=buefy&show_owner=true)](https://github.com/bachtiarpanjaitan/btx)
 
 > Top Languages
