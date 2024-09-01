@@ -15,11 +15,6 @@
 
 ![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=buefy&card_width=500&show_owner=true&locale=id&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
 
-> Favorite Repo's
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=IhandCashier&theme=buefy&card_width=300&show_owner=true)](https://github.com/bachtiarpanjaitan/IhandCashier)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=btx&theme=buefy&show_owner=true)](https://github.com/bachtiarpanjaitan/btx)
-
 > Top Languages
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarpanjaitan&layout=compact&theme=buefy&hide=scss,html,css&card_width=400)](https://github.com/bachtiarpanjaitan/github-readme-stats)
