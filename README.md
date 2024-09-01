@@ -3,14 +3,6 @@
 
 ![Bachtiar Panjaitan View's](https://komarev.com/ghpvc/?username=bachtiarpanjaitan)
 
-> Languages
-<p>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376369/dotnet.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452184/csharp.svg"alt="dotnet" width="40" height="40"/> </a>
- </p>
-
 > Github Stats
 
 ![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=buefy&card_width=500&show_owner=true&locale=id&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
