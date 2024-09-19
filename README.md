@@ -5,7 +5,7 @@
 
 > Github Stats
 
-![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=buefy&card_width=500&show_owner=true&locale=id&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
+![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=buefy&card_width=500&show_owner=true&locale=en&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
 
 > Top Languages
 
