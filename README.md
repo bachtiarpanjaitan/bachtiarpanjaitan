@@ -2,11 +2,6 @@
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 ![Bachtiar Panjaitan View's](https://komarev.com/ghpvc/?username=bachtiarpanjaitan)
-
-> Github Stats
-
-![Bachtiar Panjaitan GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=buefy&card_width=500&show_owner=true&locale=en&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
-
 > Top Languages
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarpanjaitan&layout=compact&theme=buefy&hide=scss,html,css&card_width=400)](https://github.com/bachtiarpanjaitan/github-readme-stats)
