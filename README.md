@@ -13,10 +13,11 @@ A software engineer based in Jakarta with **6+ years of experience in full-stack
 
 - **PT. Mitra Pasifik Solusindo** – Programmer (2018–2020)  
 - **PT. Penta Software Indonesia** – Software Engineer (2021–present)
+- **PT. Mora Teknologi Indonesia** – Software Engineer (2025–present)
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Last Projects
 1. **SIPT BPOM RI** (2025) BPOM: Integrated Reporting Information System
 2. **SMARTPOM BPOM RI** (2025) BPOM: SMART POM Digital Based Surveillance
 3. **HRIS** (2023)  Pancaduta Prakarsa: HRIS platform (mobile + web)
@@ -32,7 +33,6 @@ A software engineer based in Jakarta with **6+ years of experience in full-stack
 ### 🥇 Awards & Publications
 
 - 🥇 **Gold Medal** – IRSTC & RESPEX 2017, Malaysia  
-- 🎖️ **Outstanding Student** – LP3I Polytechnic Medan, 2018  
 - 🥉 **3rd Place Winner** – DILO Hackathon Medan 2018
 
 **Research:**  
