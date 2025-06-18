@@ -17,27 +17,15 @@ A software engineer based in Jakarta with **6+ years of experience in full-stack
 ---
 
 ### 🚀 Selected Projects
-
-1. **HRIS Pancaduta Prakarsa** (2023)  
-   HRIS platform (mobile + web) built using VueJS (Quasar), React Native, Laravel Lumen & MySQL
-
-2. **Go Bimbel Online** (2022)  
-   E-learning platform built with Nuxt.js, Laravel Lumen, React Native & MongoDB
-
-3. **FMS APP – Festival Management System** (2021–2022)  
-   Event management system using Vue/Quasar, Firebase, ExpressJS & PostgreSQL
-
-4. **MAD – Digital Asset Management for Kemendikbud** (2021)  
-   Web application built with Laravel, MySQL & MongoDB
-
-5. **DATS – Safety Tracking System for DSLNG** (2021)  
-   Accident tracking system using Laravel & SQL Server
-
-6. **RPMS – Release & Publishing Management System for BRI** (2021–2022)  
-   Web system using Laravel Nova & MySQL
-
-7. **BIS SaaS & APS SaaS** (2019–2021)  
-   ERP and HR platforms using .NET, Nuxt.js, SQL Server & RabbitMQ
+1. **SIPT BPOM RI** (2025) BPOM: Integrated Reporting Information System
+2. **SMARTPOM BPOM RI** (2025) BPOM: SMART POM Digital Based Surveillance
+3. **HRIS** (2023)  Pancaduta Prakarsa: HRIS platform (mobile + web)
+4. **Go Bimbel Online** (2022)  Ganesha Operation: E-learning platform
+5. **FMS APP – Festival Management System** (2021–2022)  PPPI: Event management system
+6. **MAD – Digital Asset Management** (2021)  KEMENDIKBUD: Web application
+7. **DATS – Safety Tracking System** (2021)  DSLG: Accident tracking system
+8. **RPMS – Release & Publishing Management System for BRI** (2021–2022) BRI: release and Publishing Web App
+9. **BIS SaaS & APS SaaS** (2019–2021) ERP and HR platforms
 
 ---
 
