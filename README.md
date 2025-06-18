@@ -36,10 +36,7 @@ A software engineer based in Jakarta with **6+ years of experience in full-stack
 6. **RPMS – Release & Publishing Management System for BRI** (2021–2022)  
    Web system using Laravel Nova & MySQL
 
-7. **BCODE** (2021–2022)  
-   Multi-platform attendance and payroll app using C#, .NET, Nuxt.js & SQL Server
-
-8. **BIS SaaS & APS SaaS** (2019–2021)  
+7. **BIS SaaS & APS SaaS** (2019–2021)  
    ERP and HR platforms using .NET, Nuxt.js, SQL Server & RabbitMQ
 
 ---
