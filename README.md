@@ -13,7 +13,7 @@ A software engineer based in Jakarta with **6+ years of experience in full-stack
 
 - **PT. Mitra Pasifik Solusindo** – Programmer (2018–2020)  
 - **PT. Penta Software Indonesia** – Software Engineer (2021–present)
-- **PT. Mora Teknologi Indonesia** – Software Engineer (2025–present)
+- **PT. Mora Teknologi Indonesia** – Software Engineer (2025–2025)
 
 ---
 
