@@ -30,11 +30,6 @@ A software engineer based in Jakarta with **6+ years of experience in full-stack
 
 ---
 
-### 🥇 Awards & Publications
-
-- 🥇 **Gold Medal** – IRSTC & RESPEX 2017, Malaysia  
-- 🥉 **3rd Place Winner** – DILO Hackathon Medan 2018
-
 **Research:**  
 *“Motorcycle Safety Technology with IoT” (2017)*  
 Implemented with Arduino, RFID, and Bluetooth for real-time monitoring
@@ -45,7 +40,8 @@ Implemented with Arduino, RFID, and Bluetooth for real-time monitoring
 
 - **Bataxdevino** – Custom C++ library for Arduino modules  
 - **Btx Packagist** – PHP utility packages for Laravel  
-- **PolygonID** – Geospatial visualization using Google Maps API  
+- **PolygonID** – Geospatial visualization using Google Maps API
+- **Ihand Cashier** – Multiplatform POS for macro business  
 
 ---
 
