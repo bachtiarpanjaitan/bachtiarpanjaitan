@@ -2,7 +2,6 @@
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 ![Bachtiar Panjaitan View's](https://komarev.com/ghpvc/?username=bachtiarpanjaitan)
-> Top Languages
 
 ## 👋 Hi, I'm Bachtiar Panjaitan
 
