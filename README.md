@@ -4,7 +4,6 @@
 ![Bachtiar Panjaitan View's](https://komarev.com/ghpvc/?username=bachtiarpanjaitan)
 > Top Languages
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarpanjaitan&layout=compact&theme=buefy&hide=scss,html,css&card_width=400)](https://github.com/bachtiarpanjaitan/github-readme-stats)
 ## 👋 Hi, I'm Bachtiar Panjaitan
 
 A software engineer based in Jakarta with **6+ years of experience in full-stack web development** and **2 years in desktop application development**. I focus on clean code, practical architecture, and high-efficiency engineering in real-world applications.
