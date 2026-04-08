@@ -16,6 +16,7 @@ A software engineer based in Jakarta with **6+ years of experience in full-stack
 ---
 
 ### 🚀 Last Projects
+1. **JOE SCM** (2026) PT Jakarta Oses Energi: Procurement and Asset management Platform
 1. **SIPT BPOM RI** (2025) BPOM: Integrated Reporting Information System
 2. **SMARTPOM BPOM RI** (2025) BPOM: SMART POM Digital Based Surveillance
 3. **HRIS** (2023)  Pancaduta Prakarsa: HRIS platform (mobile + web)
