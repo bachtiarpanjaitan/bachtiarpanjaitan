@@ -36,10 +36,6 @@ Implemented with Arduino, RFID, and Bluetooth for real-time monitoring
 ---
 
 ### 🔧 Side Projects & Tools
-
-- **Bataxdevino** – Custom C++ library for Arduino modules  
-- **Btx Packagist** – PHP utility packages for Laravel  
-- **PolygonID** – Geospatial visualization using Google Maps API
 - **Ihand Cashier** – Multiplatform POS for macro business  
 
 ---
