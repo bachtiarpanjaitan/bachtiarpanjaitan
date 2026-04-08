@@ -16,16 +16,16 @@ A software engineer based in Jakarta with **6+ years of experience in full-stack
 ---
 
 ### 🚀 Last Projects
-10. **JOE SCM** (2026) PT Jakarta Oses Energi: Procurement and Asset Management Platform
-9. **SIPT BPOM RI** (2025) BPOM: Integrated Reporting Information System
-8. **SMARTPOM BPOM RI** (2025) BPOM: SMART POM Digital Based Surveillance
-7. **HRIS** (2023)  Pancaduta Prakarsa: HRIS platform (mobile + web)
-6. **Go Bimbel Online** (2022)  Ganesha Operation: E-learning platform
-5. **FMS APP – Festival Management System** (2021–2022)  PPPI: Event management system
-4. **MAD – Digital Asset Management** (2021)  KEMENDIKBUD: Web application
-3. **DATS – Safety Tracking System** (2021)  DSLG: Accident tracking system
-2. **RPMS – Release & Publishing Management System for BRI** (2021–2022) BRI: release and Publishing Web App
-1. **BIS SaaS & APS SaaS** (2019–2021) ERP and HR platforms
+- **JOE SCM** (2026) PT Jakarta Oses Energi: Procurement and Asset Management Platform
+- **SIPT BPOM RI** (2025) BPOM: Integrated Reporting Information System
+- **SMARTPOM BPOM RI** (2025) BPOM: SMART POM Digital Based Surveillance
+- **HRIS** (2023)  Pancaduta Prakarsa: HRIS platform (mobile + web)
+- **Go Bimbel Online** (2022)  Ganesha Operation: E-learning platform
+- **FMS APP – Festival Management System** (2021–2022)  PPPI: Event management system
+- **MAD – Digital Asset Management** (2021)  KEMENDIKBUD: Web application
+- **DATS – Safety Tracking System** (2021)  DSLG: Accident tracking system
+- **RPMS – Release & Publishing Management System for BRI** (2021–2022) BRI: release and Publishing Web App
+- **BIS SaaS & APS SaaS** (2019–2021) ERP and HR platforms
 
 ---
 
