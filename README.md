@@ -36,7 +36,8 @@ Implemented with Arduino, RFID, and Bluetooth for real-time monitoring
 ---
 
 ### 🔧 Side Projects & Tools
-- **Ihand Cashier** – Multiplatform POS for macro business  
+- **Ihand Cashier** – Multiplatform POS for macro business
+- **Ihand Lumos** – Quiz App Ecosystem for Android and iOS
 
 ---
 
