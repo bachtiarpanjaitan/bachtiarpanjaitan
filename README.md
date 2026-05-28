@@ -38,6 +38,8 @@ Implemented with Arduino, RFID, and Bluetooth for real-time monitoring
 ### 🔧 Side Projects & Tools
 - **Ihand Cashier** – Multiplatform POS for macro business
 - **Ihand Lumos** – Quiz App Ecosystem for Android and iOS
+- **Btx/btx** – General additional package for laravel framework ([open packagist](https://packagist.org/packages/btx/btx))
+- **btx/sql-ai-query** - PHP package to generate SQL queries using AI based on database schema with conversation context. ([open packagist](https://packagist.org/packages/btx/sql-ai-query))
 
 ---
 
