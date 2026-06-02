@@ -5,7 +5,7 @@
 
 ## 👋 Hi, I'm Bachtiar Panjaitan
 
-A software engineer based in Jakarta with **7+ years of experience in full-stack web development** and **2 years in desktop application development**. I focus on clean code, practical architecture, and high-efficiency engineering in real-world applications.
+A software engineer based in Jakarta with **7+ years of experience in full-stack web development**, **2 years in desktop application development** and **2 years in mobile apps development**. I focus on clean code, practical architecture, and high-efficiency engineering in real-world applications.
 
 ### 💼 Professional Experience
 
