@@ -1,11 +1,14 @@
 
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 
 ![Bachtiar Panjaitan View's](https://komarev.com/ghpvc/?username=bachtiarpanjaitan)
 
-## 👋 Hi, I'm Bachtiar Panjaitan
+I am a Full-Stack Software Engineer with over 7 years of experience in web application development and more than 2 years of experience building cross-platform desktop applications. I specialize in designing scalable backend systems, developing modern web applications, and delivering reliable software solutions using Golang, PHP, JavaScript, Python, and cross-platform technologies.
 
-A software engineer based in Jakarta with **7+ years of experience in full-stack web development**, **2 years in desktop application development** and **2 years in mobile apps development**. I focus on clean code, practical architecture, and high-efficiency engineering in real-world applications.
+In recent years, I have expanded my expertise into Artificial Intelligence, integrating AI capabilities into production-ready applications. My experience includes building semantic search systems with vector embeddings, implementing automated essay grading using similarity scoring and rubric-based evaluation, developing AI-assisted educational solutions, designing real-time communication systems, and creating intelligent backend services. I have hands-on experience with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, vector databases, prompt engineering, RESTful APIs, WebSockets, and modern software architecture.
+
+I am passionate about building scalable, maintainable, and intelligent software that solves real-world problems. I continuously explore emerging AI technologies and modern engineering practices to create applications that are practical, efficient, and impactful.
+
 
 ### 💼 Professional Experience
 
@@ -15,39 +18,18 @@ A software engineer based in Jakarta with **7+ years of experience in full-stack
 
 ---
 
-### 🚀 Last Projects
-- **JOE SCM** (2026) PT Jakarta Oses Energi: Procurement and Asset Management Platform
-- **SIPT BPOM RI** (2025) BPOM: Integrated Reporting Information System
-- **SMARTPOM BPOM RI** (2025) BPOM: SMART POM Digital Based Surveillance
-- **HRIS** (2023)  Pancaduta Prakarsa: HRIS platform (mobile + web)
-- **Go Bimbel Online** (2022)  Ganesha Operation: E-learning platform
-- **FMS APP – Festival Management System** (2021–2022)  PPPI: Event management system
-- **MAD – Digital Asset Management** (2021)  KEMENDIKBUD: Web application
-- **DATS – Safety Tracking System** (2021)  DSLG: Accident tracking system
-- **RPMS – Release & Publishing Management System for BRI** (2021–2022) BRI: release and Publishing Web App
-- **BIS SaaS & APS SaaS** (2019–2021) ERP and HR platforms
-
----
-
-**Research:**  
-*“Motorcycle Safety Technology with IoT” (2017)*  
-Implemented with Arduino, RFID, and Bluetooth for real-time monitoring
-
----
-
 ### 🔧 Side Projects & Tools
 - **Ihand Cashier** – Multiplatform POS for macro business
 - **Ihand Lumos** – Quiz App Ecosystem for Android and iOS
-- **Btx/btx** – General additional package for laravel framework ([open packagist](https://packagist.org/packages/btx/btx))
-- **btx/sql-ai-query** - PHP package to generate SQL queries using AI based on database schema with conversation context. ([open packagist](https://packagist.org/packages/btx/sql-ai-query))
+- **Ihand AI** - Provider-agnostic Go AI framework for building RAG, agents, and AI-powered applications. Swap LLM providers without code changes — supports Ollama, OpenAI, and more.
+- **Ihand TUI** - Terminal User Interface AI agent using Ihand AI
 
 ---
 
 ### 🎯 What I Offer
 
 I build software that is:
-- Modular, extensible, and easy to maintain  
-- Efficient to run and cheap to deploy  
+- Modular, extensible, and easy to maintain
 - Cross-platform ready (web, mobile, desktop, embedded)
 
 ---
