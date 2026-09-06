@@ -9,13 +9,6 @@ In recent years, I have expanded my expertise into Artificial Intelligence, inte
 
 I am passionate about building scalable, maintainable, and intelligent software that solves real-world problems. I continuously explore emerging AI technologies and modern engineering practices to create applications that are practical, efficient, and impactful.
 
-
-### 💼 Professional Experience
-
-- **PT. Mitra Pasifik Solusindo** – Programmer (2018–2020)  
-- **PT. Penta Software Indonesia** – Software Engineer (2021–present)
-- **PT. Mora Teknologi Indonesia** – Software Engineer (2025)
-
 ---
 
 ### 🔧 Side Projects & Tools
