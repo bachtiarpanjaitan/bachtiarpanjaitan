@@ -13,7 +13,7 @@ I am passionate about building scalable, maintainable, and intelligent software 
 
 ### 🔧 Side Projects & Tools
 - **Ihand Cashier** – Multiplatform POS for macro business
-- **Ihand Lumos** – Quiz App Ecosystem for Android on [Playstore](https://play.google.com/store/apps/details?id=com.basapadi.ihandlumos)
+- **Ihand Lumos** – Quiz App Ecosystem for Android on [Playstore](https://play.google.com/store/apps/details?id=com.basapadi.ihandlumos) or see detail on official website [Ihand Lumos](https://ihandlumos.basapadi.com)
 - **Ihand AI** - Provider-agnostic Go AI framework for building RAG, agents, and AI-powered applications. Swap LLM providers without code changes — supports Ollama, OpenAI, and more.
 
 ---
